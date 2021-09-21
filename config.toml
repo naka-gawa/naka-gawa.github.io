@@ -1,7 +1,7 @@
 baseurl = "https://naka-gawa.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Beautiful Hugo"
+title = "my scrapbox"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -46,11 +46,11 @@ publishDir = "docs"
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  email = "youremail@domain.com"
-  github = "username"
-  twitter = "username"
-  linkedin = "username"
+  name = "Tomoaki Nakagawa"
+  email = "naka-gawa@gmail.com"
+  github = "naka-gawa"
+  twitter = "tmnkgwa4"
+  linkedin = "tomoaki-nakagawa"
 
 [[menu.main]]
     name = "Blog"
