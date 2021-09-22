@@ -53,7 +53,7 @@ publishDir = "docs"
   linkedin = "tomoaki-nakagawa"
 
 [[menu.main]]
-    name = "Blog"
+    name = "Post"
     url = ""
     weight = 1
 
